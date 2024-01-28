@@ -1,1 +1,1 @@
-{"food": [{"amount": 25.0, "description": "it is for the chocolates", "category": "food", "date": "2024-01-26 08:16:46"}]}
+{"food": [{"amount": 25.0, "description": "it is for the chocolates", "category": "food", "date": "2024-01-26 08:16:46"}], "food<<snacks": [{"amount": 8.32, "description": "It is for snacks", "category": "food<<snacks", "date": "2024-01-26 15:57:08"}], "ration": [{"amount": 6.25, "description": "it is for the groceries", "category": "ration", "date": "2024-01-28 00:34:59"}]}
